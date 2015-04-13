@@ -1,0 +1,12 @@
+This is a Little Readme file for make this work
+
+It better have this tree on each plataform of flypoint, just for pattern mantainment
+
+ * 0.docs
+ * 1.bin
+ * 2.installer
+ * 3.release
+ * 9.tmp
+
+In 0.docs are the docs, bin the extracted installers binnaries, realeas are the development versions, tmp are unstable and dev tree.
+
